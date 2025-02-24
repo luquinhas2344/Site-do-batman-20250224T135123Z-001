@@ -50,7 +50,7 @@ main {
 }
 
 .aliado {
-    background-color: #333; /* Cinza escuro */
+    background-color: #3a0a92; 
     border: 2px solid #ffd700; /* Borda amarela */
     border-radius: 10px;
     padding: 15px;
@@ -102,7 +102,7 @@ main {
 }
 
 .vilao {
-    background-color: #333; /* Cinza escuro */
+    background-color: #3a0a92; 
     border: 2px solid #ffd700; /* Borda amarela */
     border-radius: 10px;
     padding: 15px;
